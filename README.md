@@ -63,10 +63,10 @@
 
 ### Statement C
 * `StatementC`
-	1. Every monkey holds 1 parrot in their hands.
-	2. Each monkey holds 1 parrot in their hands.
-	3. Each monkey holds 1 parrot in [the monkey's] hands.   
-	4. Each [of the twelve] monkeys holds 1 parrot in [the monkey's] hands.
+	1. `Every monkey holds 1 parrot in their hands.`
+	2. `Each monkey holds 1 parrot in their hands.`
+	3. `Each monkey holds 1 parrot in [the monkey's] hands.`   
+	4. `Each [of the twelve] monkeys holds 1 parrot in [the monkey's] hands.`
 	
 ```
   elephant1 + ( [monkey1 parrot1] + [monkey2 + parrot2] )
