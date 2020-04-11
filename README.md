@@ -35,6 +35,7 @@
 
 
 <hr>
+
 ### Statement B
 * `StatementB`
 	1. `Every elephant saw 2 monkeys going towards the river.`
@@ -56,6 +57,9 @@
 * From `StatementB`, we conjecture 6 elephants + 12 monkeys are going to the river.
 * From `StatementB`, we conjecture 18 animals are going to the river.
 
+
+
+<hr>
 
 ### Statement C
 * `StatementC`
