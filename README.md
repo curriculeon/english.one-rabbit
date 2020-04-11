@@ -80,7 +80,7 @@
 = 30 animals
 ```
 
-### Conjecture
+#### Conjecture
 * From `StatementC`, we conjecture 6 elephants + 12 monkeys + 12 parrots are going to the river.
 * From `StatementC`, we conjecture 18 animals + 12 parrots are going to the river.
 * From `StatementC`, we conjecture 30 animals are going to the river.
